@@ -91,14 +91,14 @@
 * SSRFmap
 * Gopherus
 
-# Subdomain Takeover  [info](https://github.com/EdOverflow/can-i-take-over-xyz)
+# Subdomain Takeover  
+[info](https://github.com/EdOverflow/can-i-take-over-xyz)
 
 # Learn How to Hunt
 Tutorials and Things to Do while Hunting Vulnerability.
 [Howtohunt repo](https://github.com/KathanP19/HowToHunt)
 
 Topics
-
 # Work in progress..
 
 # Contributors
