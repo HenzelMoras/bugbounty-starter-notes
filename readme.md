@@ -100,7 +100,9 @@
 Tutorials and Things to Do while Hunting Vulnerability.
 [Howtohunt repo](https://github.com/KathanP19/HowToHunt)
 
-Topics
+# Gold mine of Resources from Nahamsec
+[Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)🔥
+
 # Work in progress..
 
 # Contributors
