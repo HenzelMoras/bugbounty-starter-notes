@@ -95,7 +95,7 @@
 [info](https://github.com/EdOverflow/can-i-take-over-xyz)
 
 # Above notes are from Jason haddix's How to shot web talk [link](https://www.youtube.com/watch?v=-FAjxUOKbdI) 
-
+# notes on newer version of Jason Haddix's talks [TBHMv4](/TBHMV4.md)
 # Learn How to Hunt
 Tutorials and Things to Do while Hunting Vulnerability.
 [Howtohunt repo](https://github.com/KathanP19/HowToHunt)
