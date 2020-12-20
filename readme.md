@@ -102,7 +102,7 @@ Tutorials and Things to Do while Hunting Vulnerability.
 
 # Gold mine of Resources from Nahamsec
 [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)🔥
-
+# Android Pentesting Mindmap [Link](https://www.mindmeister.com/1491593727/android-pentesting?fullscreen=1) from @ofjaaah
 # Work in progress..
 
 # Contributors
