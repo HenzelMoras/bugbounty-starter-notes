@@ -104,7 +104,9 @@ Tutorials and Things to Do while Hunting Vulnerability.
 [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)🔥
 # Android Pentesting Mindmap [Link](https://www.mindmeister.com/1491593727/android-pentesting?fullscreen=1) from @ofjaaah
 
-# (Link)[https://six2dez.gitbook.io/pentest-book/recon/public-info-gathering] good blog on recon 
+# [Link](https://six2dez.gitbook.io/pentest-book/recon/public-info-gathering) good blog on recon 
+
+# Read writeups from [pentesterland](https://pentester.land/list-of-bug-bounty-writeups.html) , [H1 Hacktivity](https://pentester.land/list-of-bug-bounty-writeups.html) ,  Infosec twitter and medium articles
 
 # Work in progress..
 
