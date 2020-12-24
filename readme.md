@@ -107,6 +107,7 @@ Tutorials and Things to Do while Hunting Vulnerability.
 # [Link](https://six2dez.gitbook.io/pentest-book/recon/public-info-gathering) good blog on recon 
 
 # Read writeups from [pentesterland](https://pentester.land/list-of-bug-bounty-writeups.html) , [H1 Hacktivity](https://pentester.land/list-of-bug-bounty-writeups.html) ,  Infosec twitter and medium articles
+# Great blog on [github recon](https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82)
 
 # Work in progress..
 
